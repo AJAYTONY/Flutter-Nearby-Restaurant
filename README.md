@@ -13,4 +13,11 @@ A new Flutter project.
 | <img width="250" height="550" src="https://user-images.githubusercontent.com/64533536/195336340-0e30b6ee-e950-436f-af9f-c662cf66901f.jpeg">, | <img width="250" height="550" src="https://user-images.githubusercontent.com/64533536/195336333-9cdac1de-3678-43c4-b442-c4b59fe3fb78.jpeg"> |  
 
 
+## Contribute
 
+Don't hesitate to open issues and make a pull request to help improve code
+
+
+
+## Support
+Don't forget to follow the project's author, Ezz, and consider starring the project to show your ❤️ and support.
